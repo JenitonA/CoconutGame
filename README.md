@@ -1,4 +1,5 @@
 # CoconutGame
+Date: 2020/06/13
 
 This simple Pygame is a recreation I made of an old retro arcade game called "Coconuts"
 
